@@ -1,0 +1,33 @@
+{
+  "terminal.integrated.profiles.osx": {
+    "devboxCompatibleShell": {
+      "path": "/usr/local/bin/fish",
+      "args": [
+        "--no-config"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.osx": "devboxCompatibleShell",
+  "cSpell.words": [
+    "buildx",
+    "dfsg",
+    "gemrc",
+    "iruby",
+    "libczmq",
+    "libgdbm",
+    "libgmp",
+    "liblapacke",
+    "libncurses",
+    "libopenblas",
+    "libreadline",
+    "libruby",
+    "libsqlite",
+    "libyaml",
+    "libzmq",
+    "racc",
+    "rdoc",
+    "rubylang",
+    "rzmq",
+    "tzdata"
+  ]
+}

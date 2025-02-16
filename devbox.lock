@@ -1,0 +1,60 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "github:NixOS/nixpkgs/nixpkgs-unstable": {
+      "resolved": "github:NixOS/nixpkgs/ba0939c506a03c60a765cd7f7c43794816540eec?lastModified=1739482815&narHash=sha256-%2F5Lwtmp%2F8j%2Bro32gXzitucSdyjJ6QehfJCL58WNA7N0%3D"
+    },
+    "hadolint@2.12.0": {
+      "last_modified": "2025-02-07T11:26:36Z",
+      "resolved": "github:NixOS/nixpkgs/d98abf5cf5914e5e4e9d57205e3af55ca90ffc1d#hadolint",
+      "source": "devbox-search",
+      "version": "2.12.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/p04wza7jqfy42y4khgdrs0zqcvp56b0j-hadolint-2.12.0",
+              "default": true
+            },
+            {
+              "name": "doc",
+              "path": "/nix/store/05kzqgh6yhh442l6cf65cnlkrln1ik0i-hadolint-2.12.0-doc"
+            }
+          ],
+          "store_path": "/nix/store/p04wza7jqfy42y4khgdrs0zqcvp56b0j-hadolint-2.12.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/4932f50b2jivns612m68y6g53bn0gkzv-hadolint-2.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/4932f50b2jivns612m68y6g53bn0gkzv-hadolint-2.12.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ixh4xccw1zaqliyc1k53b4wvd30nyqkm-hadolint-2.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ixh4xccw1zaqliyc1k53b4wvd30nyqkm-hadolint-2.12.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/kl3z3zazk8kc497jnqny887r71d02aia-hadolint-2.12.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/kl3z3zazk8kc497jnqny887r71d02aia-hadolint-2.12.0"
+        }
+      }
+    }
+  }
+}
